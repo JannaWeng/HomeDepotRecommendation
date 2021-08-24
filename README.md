@@ -1,5 +1,6 @@
 # HomeDepotRecommendation
 This is the final project for MSDS 434 at Northwestern University. 
+
 Flow of the Project:
 - Data Storing in Google Cloud Platform bucket
 - Data Cleaning in Python

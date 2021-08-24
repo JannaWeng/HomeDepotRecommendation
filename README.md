@@ -5,6 +5,8 @@ Flow of the Project:
 - Data Cleaning in Python
 - Data Recommendation Model in Python
 
+Data Studio Dashboard: https://datastudio.google.com/s/j1d8JHCIM9k
+
 Source data: https://www.kaggle.com/c/home-depot-product-search-relevance/data
 
 The data source is a CSV file containing two columns: Product Unique ID and Product Description. 

@@ -5,7 +5,7 @@ Flow of the Project:
 - Data Cleaning in Python
 - Data Recommendation Model in Python
 
-Data Studio Dashboard: https://datastudio.google.com/s/j1d8JHCIM9k
+Data Studio Dashboard: https://datastudio.google.com/reporting/eb62b469-cb9d-402d-be74-3ecdc1878742
 
 Source data: https://www.kaggle.com/c/home-depot-product-search-relevance/data
 
